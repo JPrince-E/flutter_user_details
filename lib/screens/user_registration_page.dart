@@ -279,7 +279,7 @@ class UserRegistrationPageState extends State<UserRegistrationPage> {
                                 Colors.teal, // Adjusted color scheme
                           ),
                           child: const Text(
-                            'Update User',
+                            'Register User',
                             style: TextStyle(fontSize: 20),
                           ),
                         ),
